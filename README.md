@@ -6,7 +6,7 @@
 ---
 
 ## 📸 Pré-visualização
-![Screenshots do projeto]((https://imgur.com/gallery/metas-telas-K5POpYi))
+![Screenshots do projeto](https://imgur.com/gallery/metas-telas-K5POpYi)
 
 ---
 
