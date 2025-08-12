@@ -1,7 +1,7 @@
 # 📝 METAS
 
 ## 🚀 Acesse o projeto online
-[Clique aqui para testar](projetoa-production.up.railway.app)
+[Clique aqui para testar]([projetoa-production.up.railway.app](https://projetoa-production.up.railway.app/))
 
 ---
 
