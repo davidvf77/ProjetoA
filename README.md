@@ -5,8 +5,9 @@
 
 ---
 
-## 📸 Pré-visualização
-![Screenshots do projeto](https://imgur.com/gallery/metas-telas-K5POpYi)
+## 📸 Pré-visualização  
+Confira todas as telas do projeto no álbum do Imgur:  
+[Álbum de telas no Imgur](https://imgur.com/gallery/metas-telas-K5POpYi)
 
 ---
 
@@ -27,7 +28,7 @@ Railway (deploy)
    
    composer install
    npm install
-   
+
 3.Configure o .env
 
 4.Rode as migrations:
