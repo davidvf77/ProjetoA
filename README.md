@@ -1,12 +1,12 @@
 # 📝 METAS
 
 ## 🚀 Acesse o projeto online
-[Clique aqui para testar]([projetoa-production.up.railway.app](https://projetoa-production.up.railway.app/))
+[Clique aqui para testar](https://projetoa-production.up.railway.app)
 
 ---
 
 ## 📸 Pré-visualização
-![Screenshots do projeto](https://imgur.com/a/K5POpYi)
+![Screenshots do projeto]((https://imgur.com/gallery/metas-telas-K5POpYi))
 
 ---
 
